@@ -4,6 +4,12 @@ This project transforms a standard RC Transmitter's trainer port output (PPM sig
 
 The system simultaneously transmits channel data over **ESP-NOW** for long-range drone/vehicle control (via iBus) and converts the input into a standard **Bluetooth Gamepad** for simulator or PC control.
 
+## **Tx Installation**
+
+<img width="766" height="561" alt="image" src="https://github.com/user-attachments/assets/294d30dd-65f9-40cb-924f-dc405440d7a7" />
+
+### ***change to huge app or else you won't able to upload to esp32***
+
 ## **🚀 Architecture and Dual Output**
 
 The system is split into two primary components:
